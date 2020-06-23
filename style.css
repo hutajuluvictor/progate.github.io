@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Progate J46</title> 
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/fontawesome.css">
+</head>
+	<body>
+		<header>
+			<div class="container">
+			<div class="header-left">
+			<h4 class="logo">Progate J46</h4>
+			</div>
+			<div class="header-right">
+			  <a href="#"> <i class="fas fa-home" style="font-size:20px;color:#fff"></i> Home</a>
+			  <a href="#"><i class="fas fa-biking" style="font-size:20px;color:#fff"></i> Driver</a>
+			  <a href="#"><i class="fas fa-store-alt" style="font-size:20px;color:#fff"></i> Mitra</a>
+			  <a href="#"> <i class="fas fa-info-circle" style="font-size:20px;color:#fff"></i> Bantuan</a>
+				  <a href="#"><i class="fas fa-book-reader" style="font-size:20px;color:#fff"></i> Panduan</a>
+			</div>
+		  </div>
+		  </header>
+
+		  <div class="main">
+			<div class="copy-container">
+			  <h1>Driver Online</h1>
+			</div>
+			<div class="contents">
+				<h2>Driver Online</h2>
+			  <div class="contents-item">
+				<a href="#"><img src="fonts/motorcycle.svg" width="200" height="300" class="center"></a>
+				<p>Motor</p>
+				<a href="#"><img src="fonts/car.svg" width="200" height="300" class="center"></a>
+				<p>Mobil</p>
+				<a href="#"><img src="fonts/truck.svg" width="200" height="300" class="center"></a>
+				<p>Pick Up</p>
+				<a href="#"><img src="fonts/people.svg" width="200" height="300" class="center"></a>
+				<p>Kurir</p>
+			  </div>
+			</div>
+		  </div>
+
+		  <div class="contact-form">
+			<h3 class="section-title">Hubungi Kami</h3>
+			<p>Nama Depan (Wajib Diisi)</p>
+			<!-- Tambahkan tag <input> -->
+			<input>
+			<p>Nama Belakang (Wajib Diisi)</p>
+			<!-- Tambahkan tag <input> -->
+			<input>
+			
+			<p>Email (Wajib Diisi)</p>
+			<!-- Tambahkan tag <input> -->
+			<input>
+
+			<p>Komentar</p>
+			<!-- Tambahkan tag <textarea> --> 
+			<textarea></textarea>
+
+			<p>*Bidang Wajib Diisi</p>
+			<!-- Tambahkan tag <input> -->
+			<input class="contact-submit" type="submit" value="kirim">
+			</div>
+		<footer class="footer">
+		<div class="team-section">
+				<h1>Our Greatest Team</h1>
+			<div class="ps">
+				<a href="#p1"><img src="img/tita.jpg" alt="" class="responsive" width="120px" height="120px"></a>
+				<a href="#p2"><img src="img/victor.jpg" alt="" class="responsive" width="120px" height="120px"></a>
+				<a href="#p3"><img src="img/willy.jpg" alt="" class="responsive" width="120px" height="120px"></a>
+				<a href="#p4"><img src="img/yona.jpg" alt="" class="responsive" width="120px" height="120px"></a>
+				<a href="#p5"><img src="img/zaka.jpg" alt="" class="responsive" width="120px" height="120px"></a>
+			
+			<div class="section" id="p1">
+				<span class="name">Tita Sri Handayani</span>
+				<span class="border"></span>
+				<p>
+				I code like a girl.
+				</p>
+			</div>
+			
+			<div class="section" id="p2">
+				<span class="name">Victor Hutajulu</span>
+				<span class="border"></span>
+				<p>
+				I love experimenting with code.
+				</p>
+			</div>
+			
+			<div class="section" id="p3">
+				<span class="name">Willy Laurent Brenkman</span>
+				<span class="border"></span>
+				<p>
+				I dream in code.
+				</p>
+			</div>
+			
+			<div class="section" id="p4">
+				<span class="name">Yona Dwi Putra</span>
+				<span class="border"></span>
+				<p>
+				Eat. Sleep. Debug. Repeat.
+			</div>
+			
+			<div class="section" id="p5">
+				<span class="name">Zakaria Mujib Noor</span>
+				<span class="border"></span>
+				<p>
+				There are no bugs, it's just a feature.
+				</p>
+			</div>
+			
+			</div>
+		</div>
+		
+			<div class="footer-left">
+			<img src="fonts/star.svg">
+				<h3>J46<span>Team</span></h3>
+ 
+				<p class="footer-links">
+					<a href="#" class="hover-list">Home</a>
+					||
+					<a href="#" class="hover-list">Blog</a>
+					||
+					<a href="#" class="hover-list">About</a>
+					||
+					<a href="#" class="hover-list">Contact</a>
+				</p>
+ 
+				<p class="footer-company-name">Designed by J46 Team 2020.</p>
+			</div>
+ 
+			<div class="footer-center">
+				<div>
+					<img src="fonts/location.svg" class="loc">
+					  <p><span>Somewhere In Indonesia</span>
+						Jakarta, Indonesia</p>
+				</div>
+ 
+				<div>
+					<img src="fonts/phone.svg" class="phone">
+					<p>+62 8888999910</p>
+				</div>
+				
+				<div>
+					<img src="fonts/email.svg" class="mail">
+					<p><a href="#" class="hover-list">cs@empatenam.com</a></p>
+				</div>	
+			</div>
+			
+			<div class="footer-right">
+				<p class="footer-company-about">
+					<span>About J46 Team</span>
+					We are on a mission to help you deliver the world’s best possible trip.</p>
+				<div class="footer-icons">
+					<a href="#"><img src="fonts/facebook.svg"></a>
+					<a href="#"><img src="fonts/twitter.svg"></a>
+					<a href="#"><img src="fonts/instagram-sketched.svg"></a>
+					<a href="#"><img src="fonts/discord.svg"></a>
+					<a href="#"><img src="fonts/youtube.svg"></a>
+				</div>
+			</div>
+		</footer>
+
+		
+	<script src="js/fontawesome.js"></script>
+    <script src="js/brands.js"></script>
+    <script src="js/solid.js"></script>
+	</body>
+</html>
